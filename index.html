@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Simples</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <input class="display">
+        <button class="gray-button" onclick="limparDisplay()">AC</button>
+        <button class="gray-button" onclick="addCharactere('+')">+/-</button>
+        <button class="operation-button" onclick="addCharactere('/')">/</button>
+        <button class="operation-button" onclick="addCharactere('*')">*</button>
+        <button class="number-button" onclick="addCharactere('7')">7</button>
+        <button class="number-button" onclick="addCharactere('8')">8</button>
+        <button class="number-button" onclick="addCharactere('9')">9</button>
+        <button class="operation-button" onclick="addCharactere('-')">-</button>
+        <button class="number-button" onclick="addCharactere('4')">4</button>
+        <button class="number-button" onclick="addCharactere('5')">5</button>
+        <button class="number-button" onclick="addCharactere('6')">6</button>
+        <button class="operation-button" onclick="addCharactere('+')">+</button>
+        <button class="number-button" onclick="addCharactere('1')">1</button>
+        <button class="number-button" onclick="addCharactere('2')">2</button>
+        <button class="number-button" onclick="addCharactere('3')">3</button>
+        <button class="equal-button" onclick="calcular()">=</button>
+        <button class="number-button zero" onclick="addCharactere('0')">0</button>
+        <button class="number-button" onclick="addCharactere('.')">.</button>
+    </div>
+</body>
+</html>
