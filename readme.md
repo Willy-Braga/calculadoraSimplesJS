@@ -1,10 +1,11 @@
 # Sobre Projeto:
 
-Projeto criado com intenção de se testar e concretizar o conhecimento em JavaScript, para isso criei uma calculadora simples onde ela irá realizar os calculos básicos da matematica
+Projeto criado com intenção de se testar e concretizar o conhecimento em JavaScript, para isso criei uma calculadora simples onde ela irá realizar os calculos básicos da matematica.
+Baixe o código do projeto aqui: https://github.com/Willy-Braga/calculadoraSimplesJS.
 
 <img src="https://img.shields.io/github/stars/Willy-Braga/calculadoraSimplesJS?style=social">
 <img src="https://img.shields.io/github/issues-pr-raw/Willy-Braga/calculadoraSimplesJS?style=social">
-<img src="https://img.shields.io/github/issues-closed/willy-braga/CaWilly-Braga/calculadoraSimplesJS?style=social">
+<img src="https://img.shields.io/github/issues-closed/willy-braga/calculadoraSimplesJS?style=social">
 
 [Projeto disponível](https://willy-braga.github.io/calculadoraSimplesJS/)
 
